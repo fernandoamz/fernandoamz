@@ -1,47 +1,124 @@
-<h1 align="center">Hi 👋, I'm <span style="color: #4ade80;">Fernando</span></h1>
-<h3 align="center">💻 Senior Mobile Software Engineer | 🚀 Tech Enthusiast | 🌎 Innovation Lover from Mexico</h3>
+<h1 align="center">Fernando</h1>
 
 <p align="center">
-  <a href="https://fernandoamz.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%20Visit%20My%20Website-4c8bf5?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Website" />
-  </a>
+Staff Mobile Engineer • React Native Architecture • iOS • Scalable Systems
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fernandoamz&label=Profile%20views&color=0e75b6&style=flat" alt="fernandoamz" />
+Building reliable mobile platforms and leading engineering teams to ship high-impact products.
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fernandoamz&theme=onedark" alt="fernandoamz" />
-  </a>
+<a href="https://fernandoamz.github.io">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000?style=for-the-badge">
+</a>
+
+<a href="https://linkedin.com/in/fernandoamz">
+<img src="https://img.shields.io/badge/LinkedIn-FernandoAMZ-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 </p>
 
-<h3 align="center">About Me</h3>
+---
+
+## About
+
+Senior Mobile Engineer with **8+ years of experience building production mobile systems** used by thousands of users.
+
+I focus on:
+
+• Mobile platform architecture  
+• Scaling React Native applications  
+• High-performance iOS development  
+• Realtime systems & telemetry  
+• Engineering mentorship and technical leadership  
+
+I enjoy helping teams move from **prototype → scalable product** while maintaining **high engineering standards and developer velocity.**
+
+---
+
+## Core Expertise
+
+**Mobile Platforms**
+
+React Native  
+Swift / iOS  
+TypeScript  
+
+**Backend & Realtime Systems**
+
+Node.js  
+Firebase  
+Realtime data pipelines  
+
+**Architecture**
+
+Mobile platform design  
+Modular React Native architecture  
+API integration patterns  
+Observability & monitoring  
+
+---
+
+## Selected Work
+
+### 🚚 Fleet Tracking Platform
+Real-time vehicle tracking system supporting **hundreds of vehicles** using **React Native, Firebase and Mapbox**.
+
+Key contributions:
+
+• Designed realtime telemetry ingestion strategy  
+• Optimized Firebase usage to reduce infrastructure cost  
+• Built map visualization and playback system  
+• Implemented vehicle status monitoring
+
+---
+
+### 📱 Scalable React Native Architecture
+
+Developed a **production-ready architecture** for React Native apps focusing on:
+
+• modular codebases  
+• predictable state management  
+• scalable navigation patterns  
+• performance optimization
+
+---
+
+## Technical Philosophy
+
+I believe high-quality engineering teams focus on:
+
+• **simplicity over complexity**  
+• **observability by default**  
+• **clear architecture boundaries**  
+• **developer productivity**
+
+Great software comes from **great systems and great teams.**
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-Senior Mobile Engineer with 8+ years of experience in iOS and cross-platform apps. Skilled in Swift, React Native, Node.js, and Firebase, with a focus on scalable backends and user-centric mobile experiences. Experienced in mentoring developers and advising companies and startups on mobile architecture and best practices. Passionate about taking on leadership roles as a Technical Lead or Staff Engineer to drive innovation and high-performing teams.
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fernandoamz&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoamz&layout=compact&theme=transparent"/>
 
 </p>
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://dev.to/fernandoamz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fernandoamz" height="35" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/fernandoamz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandoamz" height="35" width="40" />
-  </a>
-</p>
+---
 
-<h3 align="center">💡 Tech Stack & Tools</h3>
+## Connect
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-Native-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<a href="https://linkedin.com/in/fernandoamz">LinkedIn</a> •
+<a href="https://dev.to/fernandoamz">Dev.to</a> •
+<a href="https://fernandoamz.github.io">Portfolio</a>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandoamz&show_icons=true&theme=radical&count_private=true" alt="Fernando's GitHub stats" />
+<img src="https://komarev.com/ghpvc/?username=fernandoamz&color=grey">
 </p>
