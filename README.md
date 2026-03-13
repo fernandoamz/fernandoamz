@@ -30,7 +30,7 @@ Designing high-performance mobile platforms and realtime systems.
 
 # About
 
-Senior Mobile Engineer with **8+ years building production mobile applications and platforms**.
+Senior Mobile Engineer with **9+ years building production mobile applications and platforms**.
 
 My focus is designing **scalable mobile systems**, improving **developer productivity**, and helping teams deliver **high-quality products faster**.
 
