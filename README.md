@@ -1,107 +1,92 @@
 <h1 align="center">Fernando</h1>
 
 <p align="center">
-Staff Mobile Engineer • React Native Architecture • iOS • Scalable Systems
+Staff Mobile Engineer • React Native • iOS • Scalable Systems
 </p>
 
 <p align="center">
-Building reliable mobile platforms and leading engineering teams to ship high-impact products.
+Designing high-performance mobile platforms and realtime systems.
 </p>
 
 <p align="center">
 <a href="https://fernandoamz.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge">
 </a>
 
 <a href="https://linkedin.com/in/fernandoamz">
-<img src="https://img.shields.io/badge/LinkedIn-FernandoAMZ-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Fernando%20AMZ-blue?style=for-the-badge&logo=linkedin">
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=fernandoamz&style=for-the-badge">
 </p>
 
 ---
 
-## About
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&width=600&lines=Staff+Mobile+Engineer;React+Native+Architecture;Realtime+Systems;Technical+Leadership;Scalable+Mobile+Platforms" />
+</p>
 
-Senior Mobile Engineer with **8+ years of experience building production mobile systems** used by thousands of users.
+---
 
-I focus on:
+# About
+
+Senior Mobile Engineer with **8+ years building production mobile applications and platforms**.
+
+My focus is designing **scalable mobile systems**, improving **developer productivity**, and helping teams deliver **high-quality products faster**.
+
+Areas I specialize in:
 
 • Mobile platform architecture  
-• Scaling React Native applications  
-• High-performance iOS development  
-• Realtime systems & telemetry  
-• Engineering mentorship and technical leadership  
-
-I enjoy helping teams move from **prototype → scalable product** while maintaining **high engineering standards and developer velocity.**
+• React Native performance & scaling  
+• Native iOS development  
+• Realtime data systems  
+• Engineering leadership & mentorship  
 
 ---
 
-## Core Expertise
-
-**Mobile Platforms**
-
-React Native  
-Swift / iOS  
-TypeScript  
-
-**Backend & Realtime Systems**
-
-Node.js  
-Firebase  
-Realtime data pipelines  
-
-**Architecture**
-
-Mobile platform design  
-Modular React Native architecture  
-API integration patterns  
-Observability & monitoring  
-
----
-
-## Selected Work
-
-### 🚚 Fleet Tracking Platform
-Real-time vehicle tracking system supporting **hundreds of vehicles** using **React Native, Firebase and Mapbox**.
-
-Key contributions:
-
-• Designed realtime telemetry ingestion strategy  
-• Optimized Firebase usage to reduce infrastructure cost  
-• Built map visualization and playback system  
-• Implemented vehicle status monitoring
-
----
-
-### 📱 Scalable React Native Architecture
-
-Developed a **production-ready architecture** for React Native apps focusing on:
-
-• modular codebases  
-• predictable state management  
-• scalable navigation patterns  
-• performance optimization
-
----
-
-## Technical Philosophy
-
-I believe high-quality engineering teams focus on:
-
-• **simplicity over complexity**  
-• **observability by default**  
-• **clear architecture boundaries**  
-• **developer productivity**
-
-Great software comes from **great systems and great teams.**
-
----
-
-## GitHub Statistics
+# Core Technologies
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fernandoamz&show_icons=true&theme=transparent"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,swift,nodejs,firebase,python,docker,git,linux,vscode"/>
+
+</p>
+
+---
+
+# Engineering Impact
+
+**Fleet Tracking Platform**
+
+Realtime system supporting hundreds of vehicles with live telemetry.
+
+Key contributions:
+
+• Designed realtime data ingestion architecture  
+• Implemented vehicle playback & route visualization  
+• Optimized Firebase usage to reduce infrastructure cost  
+• Built monitoring and observability for vehicle states
+
+---
+
+**React Native Mobile Architecture**
+
+Designed scalable architecture used across production mobile applications.
+
+Focus areas:
+
+• modular codebase design  
+• performance optimization  
+• scalable navigation structure  
+• developer experience improvements
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fernandoamz&show_icons=true&theme=transparent&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoamz&layout=compact&theme=transparent"/>
 
@@ -109,7 +94,15 @@ Great software comes from **great systems and great teams.**
 
 ---
 
-## Connect
+# Contribution Activity
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=fernandoamz&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+# Connect
 
 <p align="center">
 
@@ -117,8 +110,4 @@ Great software comes from **great systems and great teams.**
 <a href="https://dev.to/fernandoamz">Dev.to</a> •
 <a href="https://fernandoamz.github.io">Portfolio</a>
 
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=fernandoamz&color=grey">
 </p>
