@@ -1,5 +1,3 @@
-# Fernando Amezcua
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Senior+Mobile+%26+Full-Stack+Engineer;React+Native+%7C+TypeScript+%7C+Node.js;Production+Systems+%26+AI-Assisted+Engineering" alt="Professional headline" />
 </p>
